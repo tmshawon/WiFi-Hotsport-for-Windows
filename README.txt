@@ -1,3 +1,4 @@
+Application Name : TIGER WIFI HOTSPOT
 Description
 --------------------------------------------------------
 1. This application made python(v2.7) Programming Language.
@@ -12,6 +13,10 @@ Download Url : https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi
 After installed "python2.7" 
 
 Run ==> main.py
+
+or you can install Hotspot-setup.exe 
+
+Download Link : https://dl.dropboxusercontent.com/u/203171388/Softowar%20Development/git/Hotspot-setup.exe
 
 Enjoy.. .  :) 
 
